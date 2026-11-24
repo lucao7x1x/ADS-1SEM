@@ -46,5 +46,7 @@ Mais adiante, o sistema poderá ganhar outras funções, como uma área para os 
 
 ## Integrantes
 
-- [Seu nome]
-- [Nome dos demais integrantes]
+- Lucas Mazoni Prestes
+- Matheus Eduardo Guerreiro dos Santos
+- Murillo Bertocco Marazzi Diniz
+- Wellinton Fernando Pereira
